@@ -1,4 +1,3 @@
-_______________________________________________________________________________________________________________
 | Read Me:                                                                                                    |
 | This is a compilation of work I've done for my B.S in Computer Science.                                     |
 | It is only being showcased in order to provide some work experience to future employers and should          |
